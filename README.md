@@ -1,5 +1,5 @@
 # dsplab
-DIGITAL SIGNAL PROCESSING LAB
+DIGITAL SIGNAL PROCESSING LAB\
 MATLAB and Code Composer Studio C on the TMDSLCDK6748
 
 Week 1: MATLAB - Generation and Operation of elementary discrete signals\

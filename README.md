@@ -7,4 +7,5 @@ Week 2: MATLAB - Convolution, Cross-Correlation, Auto-Correlation\
 Week 3: MATLAB - Z-Transform\
 Week 4: CCS - Generating a Sine Wave\
 Week 5: CCS - Linear Convolution\
-Week 6: MATLAB - Butterworth IIR Filter
+Week 6: MATLAB - Butterworth IIR Filter\
+Week 7: CCS - Performing DFT and IDFT

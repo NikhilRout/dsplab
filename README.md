@@ -8,4 +8,5 @@ Week 3: MATLAB - Z-Transform\
 Week 4: CCS - Generating a Sine Wave\
 Week 5: CCS - Linear Convolution\
 Week 6: MATLAB - Butterworth IIR Filter\
-Week 7: CCS - Performing DFT and IDFT
+Week 7: CCS - Performing DFT and IDFT\
+Week 8: MATLAB - Chebyshev Filter
